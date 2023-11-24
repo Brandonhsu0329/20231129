@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">X</string>
+    <string name="button_load_file">Load File</string>
+</resources>
